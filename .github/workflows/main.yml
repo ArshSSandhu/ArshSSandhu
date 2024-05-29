@@ -29,9 +29,7 @@ jobs:
         uses: Platane/snk@v3.1.0
         with:
           github_user_name: ArshSSandhu
-          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: dist
 
       # Commit and push the changes
       - name: Commit and push changes
@@ -41,6 +39,8 @@ jobs:
           git add dist/*.gif dist/*.svg
           git commit -m "Generate snake animation"
           git push origin master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
