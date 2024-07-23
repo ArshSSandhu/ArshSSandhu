@@ -7,7 +7,6 @@
 ## 📊 GitHub Stats:
 [![reimaginedreadme](https://myreadme.vercel.app/api/embed/ArshSSandhu?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://boulderbugle.com/reimaginedreadme-D76PMmZg)
 
-## ❄️About Me:
 <h2 align="left">A passionate Computer Science sophomore from Atlanta, USA</h2>
 <br/>
 <div align="left">
@@ -16,7 +15,7 @@
 
  📚 Bachelors in: **Computer Science (Honors)**
  
- 🔭 Interning at: **Medical Informatics Engineering, Fort Wayne, Indiana,USA** as software development intern
+ 🔭 Interning at: **Medical Informatics Engineering, Fort Wayne, Indiana, USA** as software development intern
  
  🌱 I’m currently learning: **JS, Node, React**
 
@@ -24,8 +23,7 @@
 
  </div>
 
-
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:arshsandhu9933@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
