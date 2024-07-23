@@ -35,5 +35,12 @@
   </a>
 </div>
 
+<h2 align="left">My Tech Stack</h2>
+<br/>
+<div align="center">
+    <h5 align="left">Languages</h5> <img src="https://skillicons.dev/icons?i=javascript,typescript,java,html,css,python" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
 
 
