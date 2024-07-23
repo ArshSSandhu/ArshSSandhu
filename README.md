@@ -37,7 +37,7 @@
 </div>
 
 <h2 align="left">My Tech Stack</h2>
-<div align="center">
+<div align="left">
     <h5 align="left">Languages</h5> <img src="https://skillicons.dev/icons?i=javascript,typescript,java,html,css,python,cpp" />
     <br/>
     <h5 align="left">Frameworks and Libraries</h5> <img src="https://skillicons.dev/icons?i=nodejs,express,react,bootstrap" />
