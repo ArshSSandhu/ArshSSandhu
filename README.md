@@ -23,6 +23,7 @@
 
  </div>
 
+<h2 align="left">Connect with me</h2>
 <div align="left"> 
   <a href="mailto:arshsandhu9933@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
@@ -30,8 +31,8 @@
   <a href="https://linkedin.com/in/arshpreet-singh-sandhu-ba0a14256" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  <a href="https://www.instagram.com/arsh__sandhu2912/" target="_blank">
+     <img src="https://skillicons.dev/icons?i=instagram" target="_blank" /> 
   </a>
 </div>
 
