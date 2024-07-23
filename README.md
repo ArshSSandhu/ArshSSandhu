@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ArshSSandhu.ArshSSandhu" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+Coders!+👋;+I'm+Arshpreet+Singh+Sandhu!;+Computer Sci Sophomore;+Purdue+University+,USA;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+Coders!+👋;+I'm+Arshpreet+Singh+Sandhu!;" />
 </h1>
 
 ## 📊 GitHub Stats:
