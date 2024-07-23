@@ -7,6 +7,20 @@
 ## 📊 GitHub Stats:
 [![reimaginedreadme](https://myreadme.vercel.app/api/embed/ArshSSandhu?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://boulderbugle.com/reimaginedreadme-D76PMmZg)
 
+## ❄️About Me:
+<h3 align="right">A passionate Computer Science sophomore from Atlanta, Georgia, USA 🇨🇦</h3>
+<br/>
+<div align="right">
+ 
+ 🔭 I’m currently interning at **Medical Informatics Engineering, Fort Wayne, Indiana,USA** as a software development intern.
+ 
+ 🌱 I’m currently learning **JS, Node, React**
+
+ ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
+
+
 <div align="center"> 
   <a href="mailto:arshsandhu9933@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
