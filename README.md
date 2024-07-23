@@ -36,7 +36,6 @@
 </div>
 
 <h2 align="left">My Tech Stack</h2>
-<br/>
 <div align="center">
     <h5 align="left">Languages</h5> <img src="https://skillicons.dev/icons?i=javascript,typescript,java,html,css,python" />
     <br/>
