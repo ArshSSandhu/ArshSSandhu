@@ -8,15 +8,19 @@
 [![reimaginedreadme](https://myreadme.vercel.app/api/embed/ArshSSandhu?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://boulderbugle.com/reimaginedreadme-D76PMmZg)
 
 ## ❄️About Me:
-<h3 align="left">A passionate Computer Science sophomore from Atlanta, Georgia, USA 🇨🇦</h3>
+<h2 align="left">A passionate Computer Science sophomore from Atlanta, USA</h2>
 <br/>
 <div align="left">
- 
- 🔭 I’m currently interning at **Medical Informatics Engineering, Fort Wayne, Indiana,USA** as a software development intern.
- 
- 🌱 I’m currently learning **JS, Node, React**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 🎓 University: **Purdue University, Indiana, USA**
+
+ 📚 Bachelors in: **Computer Science (Honors)**
+ 
+ 🔭 Interning at: **Medical Informatics Engineering, Fort Wayne, Indiana,USA** as software development intern
+ 
+ 🌱 I’m currently learning: **JS, Node, React**
+
+ ⚡ Fun fact: **After Avengers Endgame, Chris Evans sent everyone a text that read 'Assemble' so they could go out drinking**
 
  </div>
 
