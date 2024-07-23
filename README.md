@@ -8,9 +8,9 @@
 [![reimaginedreadme](https://myreadme.vercel.app/api/embed/ArshSSandhu?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://boulderbugle.com/reimaginedreadme-D76PMmZg)
 
 ## ❄️About Me:
-<h3 align="right">A passionate Computer Science sophomore from Atlanta, Georgia, USA 🇨🇦</h3>
+<h3 align="left">A passionate Computer Science sophomore from Atlanta, Georgia, USA 🇨🇦</h3>
 <br/>
-<div align="right">
+<div align="left">
  
  🔭 I’m currently interning at **Medical Informatics Engineering, Fort Wayne, Indiana,USA** as a software development intern.
  
