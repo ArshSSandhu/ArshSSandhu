@@ -6,9 +6,7 @@
 
 ## 📊 GitHub Stats:
 [![reimaginedreadme](https://myreadme.vercel.app/api/embed/ArshSSandhu?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://boulderbugle.com/reimaginedreadme-D76PMmZg)
-<div align="center">
-![](https://github-readme-streak-stats.herokuapp.com/?user=ArshSSandhu&theme=radical&hide_border=false)
-</div>
+
 <h2 align="left">A passionate Computer Science sophomore from Atlanta, USA</h2>
 <br/>
 <div align="left">
