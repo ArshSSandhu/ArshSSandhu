@@ -6,9 +6,7 @@
 
 ## 📊 GitHub Stats:
 [![reimaginedreadme](https://myreadme.vercel.app/api/embed/ArshSSandhu?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://boulderbugle.com/reimaginedreadme-D76PMmZg)
-![](https://github-readme-stats.vercel.app/api?username=ArshSSandhu&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshSSandhu&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ArshSSandhu&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ArshSSandhu&theme=radical&hide_border=false)
 
 <h2 align="left">A passionate Computer Science sophomore from Atlanta, USA</h2>
 <br/>
