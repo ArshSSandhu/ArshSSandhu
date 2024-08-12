@@ -40,15 +40,15 @@
 <div align="left">
     <h5 align="left">Languages</h5> <img src="https://skillicons.dev/icons?i=javascript,typescript,java,html,css,python,cpp" />
     <br/>
-    <h5 align="left">Frameworks and Libraries</h5> <img src="https://skillicons.dev/icons?i=nodejs,express,react,bootstrap,materialui,nextjs,bootstrap,tailwind" />
+    <h5 align="left">Frameworks and Libraries</h5> <img src="https://skillicons.dev/icons?i=nodejs,express,react,bootstrap,materialui,nextjs,tailwind" />
     <br/>
-    <h5 align="left">Tools and Platforms</h5> <img src="https://skillicons.dev/icons?i=git,github,npm,vercel,firebase,docker" />
+    <h5 align="left">Tools and Platforms</h5> <img src="https://skillicons.dev/icons?i=git,github,npm,firebase,docker" />
     <br/>
     <h5 align="left">Development Environment and IDE's</h5> <img src="https://skillicons.dev/icons?i=eclipse,pycharm,vscode,replit,vercel,powershell" />
     <br/>
     <h5 align="left">Operating Systems</h5> <img src="https://skillicons.dev/icons?i=windows,kali,linux,ubuntu" />
     <br/>
-    <h5 align="left">Other Tools</h5> <img src="https://skillicons.dev/icons?i=babel,discord,notion,ps,apple,windows,powershell,stackoverflow" />
+    <h5 align="left">Other Tools</h5> <img src="https://skillicons.dev/icons?i=babel,discord,notion,ps,apple,stackoverflow" />
     <br/>
     
 </div>
