@@ -4,11 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+Coders!+👋;+I'm+Arshpreet+Singh+Sandhu!;+2nd+Year+at+Purdue+University;" />
 </h1>
 
-## Website
-[ArshSSandhu](https://arshssandhu.github.io/)
 
 ## 📊 GitHub Stats:
 [![reimaginedreadme](https://myreadme.vercel.app/api/embed/ArshSSandhu?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://boulderbugle.com/reimaginedreadme-D76PMmZg)
+
+## 🔗Website
+[ArshSSandhu](https://arshssandhu.github.io/)
 
 <h2 align="left">A passionate Computer Science sophomore from Atlanta, USA</h2>
 <br/>
