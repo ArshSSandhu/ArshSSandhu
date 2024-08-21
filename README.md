@@ -6,7 +6,11 @@
  
 
 ## 📊 GitHub Stats:
-[![reimaginedreadme](https://myreadme.vercel.app/api/embed/ArshSSandhu?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://boulderbugle.com/reimaginedreadme-D76PMmZg)
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img width="800" height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArshSSandhu&theme=monokai">
+  </a>
+</p>
 
 ## 🔗Website
 [ArshSSandhu](https://arshssandhu.github.io/)
