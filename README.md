@@ -7,6 +7,12 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
+  <img width="490" height="190" src="https://github-readme-stats.vercel.app/api?username=ArshSSandhu&show_icons=true&theme=monokai">
+  <img width="350" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshSSandhu&size_weight=0.15&count_weight=0.5&layout=compact&theme=monokai">
+</p>
+
+
+<p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img width="800" height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArshSSandhu&theme=monokai">
   </a>
@@ -60,6 +66,11 @@
     <br/>
     
 </div>
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=ArshSSandhu&theme=monokai&hide_border=true&border_radius=5&card_width=800">
+</p>
+
 
 <div align="left">
   <h2>Contribution Chart</h2>
