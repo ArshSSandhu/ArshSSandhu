@@ -6,7 +6,9 @@
    
 
 ## 📊 GitHub Stats:
-[![reimaginedreadme](https://myreadme.vercel.app/api/embed/ArshSSandhu?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://boulderbugle.com/reimaginedreadme-D76PMmZg)
+<p>
+      <img width="490" height="190" src="https://github-readme-stats.vercel.app/api?username=ArshSSandhu&show_icons=true&theme=monokai">
+</p>
 
 
 ## 🔗Website
