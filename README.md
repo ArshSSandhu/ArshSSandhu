@@ -58,7 +58,6 @@
     <h5 align="left">Other Tools</h5> <img src="https://skillicons.dev/icons?i=babel,discord,notion,ps,apple,stackoverflow" />
     <br/>
     
-    <br>
 </div>
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
