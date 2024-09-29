@@ -6,8 +6,7 @@
    
 
 ## 📊 GitHub Stats:
-<p>
-    align="center"
+<p align="center">
       <img width="490" height="190" src="https://github-readme-stats.vercel.app/api?username=ArshSSandhu&show_icons=true&theme=monokai">
 </p>
 
