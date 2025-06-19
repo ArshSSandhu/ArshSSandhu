@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ArshSSandhu.ArshSSandhu" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+Coders!+👋;+I'm+Arshpreet+Singh+Sandhu!;+2nd+Year+at+Purdue+University;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+Coders!+👋;+I'm+Arshpreet+Singh+Sandhu!;+3rd+Year+at+Purdue+University;" />
 </h1>
    
 
@@ -14,7 +14,7 @@
 ## 🔗Website
 [ArshSSandhu](https://arshssandhu.github.io/)
 
-<h2 align="left">A passionate Computer Science sophomore from Atlanta, USA</h2>
+<h2 align="left">A passionate Computer Science Junior from Atlanta, USA</h2>
 <br/>
 <div align="left">
 
@@ -26,7 +26,7 @@
  
  🌱 I’m currently learning: **JS, Node, React**
 
- ⚡ Fun fact: **After Avengers Endgame, Chris Evans sent everyone a text that read 'Assemble' so they could go out drinking**
+ ⚡ Fun fact: **There was a time when I used to play cricket in the morning, football in the afternoon, go for a swim in the evening and gym at night**
 
  </div>
 
