@@ -27,53 +27,73 @@ I build extensible developer tools, healthcare software, full-stack applications
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### [Node.js CLI Plugin System](https://github.com/ArshSSandhu/Nodejs-cli-plugin-system)
 
-An extensible plugin architecture developed with Node.js and TypeScript.
+An extensible plugin architecture built with Node.js and TypeScript.
 
-* Modular plugin discovery and execution
-* Type-safe interfaces
-* Extensible command-line architecture
-* Documentation for third-party plugin development
+- Designed a modular plugin system for dynamic feature extensions
+- Implemented type-safe interfaces using TypeScript
+- Built CLI workflows with reusable plugin components
+- Documented architecture for future contributors
 
 **TypeScript · Node.js · Plugin Architecture**
 
 </td>
+
 <td width="50%" valign="top">
 
+### [FormBuilder Contributions](https://github.com/ArshSSandhu/formBuilder)
 
-### [Questionnaire Builder](https://github.com/ArshSSandhu/questionnaire-builder)
+Extensions and experiments around an open-source form-building ecosystem.
 
-A web-based questionnaire-building application focused on configurable forms and reusable interface components.
+- Developed reusable form-builder functionality
+- Worked with a production JavaScript codebase
+- Improved extensibility through plugin-based architecture
+- Explored localization and maintainability improvements
 
-* Interactive form-building workflows
-* Reusable frontend components
-* Structured questionnaire configuration
-* Modern React development patterns
-
-**React · JavaScript · Frontend Engineering**
+**JavaScript · Open Source · Frontend Architecture**
 
 </td>
+
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 ### [Open-Source Server](https://github.com/ArshSSandhu/opensource-server)
 
-Backend engineering work in an existing Node.js codebase, including issue-driven development and contribution workflows.
+Backend engineering project focused on API development and server architecture.
 
-* REST API development
-* Database-backed application logic
-* Debugging within an established codebase
-* Branch, issue, and pull-request workflows
+- Built and extended REST API functionality
+- Worked with backend services and database interactions
+- Practiced issue-driven development workflows
+- Applied production-style Git workflows
 
 **Node.js · Express · Sequelize · REST APIs**
 
 </td>
+
+<td width="50%" valign="top">
+
+### [Questionnaire Builder](https://github.com/ArshSSandhu/questionnaire-builder)
+
+A configurable web application for creating and managing digital questionnaires.
+
+- Built reusable frontend components
+- Designed interactive form workflows
+- Developed maintainable React interfaces
+- Applied modern frontend development practices
+
+**React · JavaScript · UI Engineering**
+
+</td>
+
 </tr>
 </table>
-
----
 
 ## Open-Source Engineering
 
