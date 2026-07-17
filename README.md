@@ -1,79 +1,158 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ArshSSandhu.ArshSSandhu" />
+# Arshpreet Singh Sandhu
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+Coders!+👋;+I'm+Arshpreet+Singh+Sandhu!;+3rd+Year+at+Purdue+University;" />
-</h1>
-   
+**Software Engineer · Computer Science Student · Open-Source Contributor**
 
-## 📊 GitHub Stats:
+I am a Computer Science student at **Purdue University Fort Wayne**, graduating in **May 2027**, and a Software Engineering Intern at **Medical Informatics Engineering**.
+
+I build extensible developer tools, healthcare software, full-stack applications, and AI-enabled systems. My experience includes contributing to production codebases, designing plugin architectures, integrating REST APIs, developing React interfaces, and working across JavaScript, TypeScript, Node.js, Python, and C++.
+
+[Portfolio](https://arshssandhu.github.io/) · [LinkedIn](https://www.linkedin.com/in/arsh2912/) · [Email](mailto:arshsandhu9933@gmail.com)
+
+---
+
+## Experience
+
+### Software Engineering Intern — Medical Informatics Engineering
+
+* Contribute to healthcare software used across production engineering workflows.
+* Develop full-stack features with **JavaScript, TypeScript, Node.js, React, REST APIs, and SQL**.
+* Designed a modular plugin architecture to make form-builder functionality easier to extend.
+* Built AI-assisted user experiences with loading, accessibility, keyboard-navigation, and error-handling support.
+* Worked with FHIR-based components, microservices, telemetry, localization, testing, and internal deployment systems.
+* Added Hindi and Punjabi localization support to an open-source form-building ecosystem.
+
+---
+
+## Selected Engineering Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Node.js CLI Plugin System](https://github.com/ArshSSandhu/Nodejs-cli-plugin-system)
+
+An extensible plugin architecture developed with Node.js and TypeScript.
+
+* Modular plugin discovery and execution
+* Type-safe interfaces
+* Extensible command-line architecture
+* Documentation for third-party plugin development
+
+**TypeScript · Node.js · Plugin Architecture**
+
+</td>
+<td width="50%" valign="top">
+
+### [AI-Powered Symptom Checker](https://github.com/ArshSSandhu/AI-Powered-Symptom-Checker)
+
+A full-stack machine-learning application that evaluates reported symptoms and presents prediction results through an interactive interface.
+
+* React frontend and Flask API
+* Scikit-learn prediction pipeline
+* Confidence-based results
+* End-to-end frontend and backend integration
+
+**React · Python · Flask · Scikit-learn**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [Questionnaire Builder](https://github.com/ArshSSandhu/questionnaire-builder)
+
+A web-based questionnaire-building application focused on configurable forms and reusable interface components.
+
+* Interactive form-building workflows
+* Reusable frontend components
+* Structured questionnaire configuration
+* Modern React development patterns
+
+**React · JavaScript · Frontend Engineering**
+
+</td>
+<td width="50%" valign="top">
+
+### [Open-Source Server](https://github.com/ArshSSandhu/opensource-server)
+
+Backend engineering work in an existing Node.js codebase, including issue-driven development and contribution workflows.
+
+* REST API development
+* Database-backed application logic
+* Debugging within an established codebase
+* Branch, issue, and pull-request workflows
+
+**Node.js · Express · Sequelize · REST APIs**
+
+</td>
+</tr>
+</table>
+
+---
+
+## Open-Source Engineering
+
+I have worked with established repositories through issues, pull requests, reviews, and iterative implementation.
+
+Notable work includes contributing a plugin system to the
+[jQuery FormBuilder ecosystem](https://github.com/kevinchappell/formBuilder) and maintaining related experimentation in my [formBuilder fork](https://github.com/ArshSSandhu/formBuilder).
+
+My open-source work has involved:
+
+* Understanding unfamiliar production codebases
+* Designing backward-compatible extensions
+* Responding to technical feedback
+* Updating implementations through pull-request review
+* Writing documentation for maintainers and future contributors
+
+---
+
+## Technical Skills
+
+**Languages**
+JavaScript · TypeScript · Python · C++ · Java · SQL · HTML · CSS
+
+**Frontend**
+React · Next.js · Material UI · Tailwind CSS · Bootstrap
+
+**Backend and APIs**
+Node.js · Express · Flask · REST APIs · Microservices · Sequelize
+
+**Data and Machine Learning**
+Scikit-learn · SQL · Data Processing · Model Integration
+
+**Engineering Tools**
+Git · GitHub · Docker · npm · Linux · Firebase · Vercel
+
+---
+
+## GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArshSSandhu&theme=github-dark"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ArshSSandhu&theme=github-compact&hide_border=true"
+    alt="Arshpreet Singh Sandhu's GitHub contribution activity"
+    width="100%"
+  />
 </p>
 
+---
 
-## 🔗Website
-[ArshSSandhu](https://arshssandhu.github.io/)
+## Education
 
-<h2 align="left">A passionate Computer Science Junior from Atlanta, USA</h2>
-<br/>
-<div align="left">
+**Purdue University Fort Wayne**
+Bachelor of Science in Computer Science · Honors Program
+Mathematics Minor · Expected May 2027
 
- 🎓 University: **Purdue University, Indiana, USA**
+* GPA: **3.89/4.00**
+* Dean’s List
+* Honors Pin recipient — Top 5%
 
- 📚 Bachelors in: **Computer Science (Honors)**
- 
- 🔭 Interning at: **Medical Informatics Engineering, Fort Wayne, Indiana, USA** as software development intern
- 
- 🌱 I’m currently learning: **JS, Node, React**
+---
 
- ⚡ Fun fact: **There was a time when I used to play cricket in the morning, football in the afternoon, go for a swim in the evening and gym at night**
+## Connect
 
- </div>
+I am interested in software-engineering opportunities involving full-stack development, developer infrastructure, AI-enabled products, healthcare technology, and financial technology.
 
-<h2 align="left">Connect with me</h2>
-<div align="left"> 
-  <a href="mailto:arshsandhu9933@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/arsh2912/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/arsh__sandhu2912/" target="_blank">
-     <img src="https://skillicons.dev/icons?i=instagram" target="_blank" /> 
-  </a>
-</div>
-
-<h2 align="left">My Tech Stack</h2>
-<div align="left">
-    <h5 align="left">Languages</h5> <img src="https://skillicons.dev/icons?i=javascript,typescript,java,html,css,python,cpp" />
-    <br/>
-    <h5 align="left">Frameworks and Libraries</h5> <img src="https://skillicons.dev/icons?i=nodejs,express,react,bootstrap,materialui,nextjs,tailwind" />
-    <br/>
-    <h5 align="left">Tools and Platforms</h5> <img src="https://skillicons.dev/icons?i=git,github,npm,firebase,docker" />
-    <br/>
-    <h5 align="left">Development Environment and IDE's</h5> <img src="https://skillicons.dev/icons?i=eclipse,pycharm,vscode,replit,vercel,powershell" />
-    <br/>
-    <h5 align="left">Operating Systems</h5> <img src="https://skillicons.dev/icons?i=windows,kali,linux,ubuntu" />
-    <br/>
-    <h5 align="left">Other Tools</h5> <img src="https://skillicons.dev/icons?i=babel,discord,notion,ps,apple,stackoverflow" />
-    <br/>
-    
-</div>
-<br/>
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img width="800" height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArshSSandhu&theme=monokai">
-  </a>
-</p>
-
-
-
-<div align="left">
-  <h2>Contribution Chart</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ArshSSandhu/ArshSSandhu/output/github-contribution-grid-snake.svg" />
-
-
-
-
-
+[LinkedIn](https://www.linkedin.com/in/arsh2912/) · [Portfolio](https://arshssandhu.github.io/) · [Email](mailto:arshsandhu9933@gmail.com)
