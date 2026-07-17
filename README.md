@@ -2,7 +2,7 @@
 
 **Software Engineer · Computer Science Student · Open-Source Contributor**
 
-I am a Computer Science student at **Purdue University Fort Wayne**, graduating in **May 2027**, and a Software Engineering Intern at **Medical Informatics Engineering**.
+I am a Computer Science student at **Purdue University**, graduating in **May 2027**, and a Software Engineering Intern at **Medical Informatics Engineering**.
 
 I build extensible developer tools, healthcare software, full-stack applications, and AI-enabled systems. My experience includes contributing to production codebases, designing plugin architectures, integrating REST APIs, developing React interfaces, and working across JavaScript, TypeScript, Node.js, Python, and C++.
 
