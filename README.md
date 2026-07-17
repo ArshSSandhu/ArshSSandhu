@@ -43,22 +43,6 @@ An extensible plugin architecture developed with Node.js and TypeScript.
 </td>
 <td width="50%" valign="top">
 
-### [AI-Powered Symptom Checker](https://github.com/ArshSSandhu/AI-Powered-Symptom-Checker)
-
-A full-stack machine-learning application that evaluates reported symptoms and presents prediction results through an interactive interface.
-
-* React frontend and Flask API
-* Scikit-learn prediction pipeline
-* Confidence-based results
-* End-to-end frontend and backend integration
-
-**React · Python · Flask · Scikit-learn**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
 
 ### [Questionnaire Builder](https://github.com/ArshSSandhu/questionnaire-builder)
 
@@ -141,7 +125,7 @@ Git · GitHub · Docker · npm · Linux · Firebase · Vercel
 
 ## Education
 
-**Purdue University Fort Wayne**
+**Purdue University**
 Bachelor of Science in Computer Science · Honors Program
 Mathematics Minor · Expected May 2027
 
